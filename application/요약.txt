@@ -1,0 +1,9 @@
+입양신청(application)
+WebContent > adoptionRequest.jsp > 75번째줄 form name 추가.
+WebContent > adoptionRequest.jsp > 139번째줄 script src="application.js" 추가.
+WebContent > application.js 만들어봄.
+Java Resources > beans, DAO 만들어봄.
+
+동물(animal)
+WebContent > animalList > 84번째줄 form name 추가.
+WebContent > animalList > 358번째줄 script src="animal.js" 추가.

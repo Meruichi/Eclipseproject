@@ -1,0 +1,26 @@
+{
+  "ecmaVersion": 5,
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "chrome-extension": {
+      
+    },
+    "chrome-apps": {
+      
+    },
+    "gas": {
+      
+    },
+    "gcharts": {
+      
+    }
+  },
+  "libs": [
+    "browser"
+  ]
+}
